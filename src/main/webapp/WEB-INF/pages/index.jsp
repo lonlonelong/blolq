@@ -48,9 +48,9 @@
     <![endif]-->
 </head>
 <body>
-<h1>这里是SpringMVC Demo首页</h1>
+<%--<h1 style="margin-right: 10px">这里是SpringMVC Demo首页</h1>
 
-<h3>出现此页面，说明配置成功。</h3>
+<h3 style="margin-right: 10px">出现此页面，说明配置成功。</h3>--%>
 
 
 <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -62,7 +62,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Project name</a>
+            <a class="navbar-brand" href="#">BLOLQ</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
@@ -101,7 +101,7 @@
             </ul>
         </div>
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
-            <h1 class="page-header">Dashboard</h1>
+            <h1 class="page-header"></h1>
 
             <div class="row placeholders">
                 <div class="col-xs-6 col-sm-3 placeholder">
